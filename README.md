@@ -34,10 +34,6 @@ Config.MenuButton   = 'F3'
 ```lua
 Config.Align        = 'center'
 ```
-- MenuCommand defines command name that will open the menu.
-```lua
-Config.MenuCommand        = 'pmenu'
-```
 
 #### Design Config:
 
