@@ -26,7 +26,7 @@ Config.Locale       = 'en'
 
 #### Menu Config:
 
-- MenuButton defines which button will be used to open menu. If you want the menu to be opened by command then set this variable as 'none'
+- MenuButton defines which button will be used to open menu. If you want the menu to be opened by command then set this variable as 'none' (Command to open is /pmenu)
 ```lua
 Config.MenuButton   = 'F3'
 ```
