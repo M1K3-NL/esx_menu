@@ -46,7 +46,7 @@ Config.RedColor     = '#ff5e5e'
 - Player Menu (RP Info etc.. (If player's job grade is boss or manager, player can press enter on his job element in order to see society account))
 - Car Menu (Doors, liveries, extras, engine etc.. (and hood + trunk <- Usable only when player is outside the vehicle))
 - Simple configuration for server owners!
-- Czech and English translation at the moment.
+- Czech, Dutch, and English translation at the moment.
 
 ### Showcase: 
 - Car Menu
